@@ -1,46 +1,22 @@
-# Getting Started with Create React App
+# World tree
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## What am I looking for in a personal knowledge management (PKM) system?
+* Ability to create arbitrary question types (Q&As, cloze deletions, image occlusions) for spaced repetition algorithms (modified SM-2 algorithm?)
+* WYSIWYG interface. Information display should represent the hierarchy of information stored in the brain. The tight feedback loop between user input and output mimics “real world” interactions, developing a kinesthetic perspective on the content (like the tight, aesthetic feeling one receives when considering the visual boundaries of an idea). Ideally, this would be accomplished through a brain computer interface (BCI), or some interface that communicates information at the speed of thought.
+* Easy control and analysis of data
+* Integration or combination with other software pipelines
+* Low priority: Ability to experiment with new PKM ideas (i.e. software)
 
-## Available Scripts
 
-In the project directory, you can run:
+## What would make me drop dead for a proprietary PKM system? 
+* Shortens time between reading content and getting it into my brain
+  * Could be done through
+  * Brain-computer interface (BCI) input
+  * Writes to my brain
+  * Transcend limitations of the human brain; use a digital memory device that interfaces with the brain, or have an entirely different kind of brain
 
-### `npm start`
+With current technology (laptops), it seems that note taking improvements will only be marginal. Tools that improve the actual processing and encoding of information seem to provide greater benefits. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Why is my time worth building a custom PKM system?
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Quick effort (≤1 week creation time) + increased efficiency & benefits of learning + compounded over several years = a win?
